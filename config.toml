@@ -1,0 +1,4 @@
+baseURL = "http://prueba/"
+languageCode = "es"
+title = "La Prueba"
+theme = "tale"
